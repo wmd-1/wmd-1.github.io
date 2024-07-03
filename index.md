@@ -30,7 +30,7 @@ Extensive experiments demonstrate that our AVF-Lip outperforms state-of-the-art 
 
 ## Quanlitative Results
 
-
+### Our resulsts
 <div align="center">
 
 <video width="960" height="540" controls>
@@ -43,7 +43,10 @@ Extensive experiments demonstrate that our AVF-Lip outperforms state-of-the-art 
 
 </div>
 
+### Qualitative comparisons with state-of-the-art methods on the MEAD and GRID datasets.
 
+![case-mead-v4](https://github.com/wmd-1/wmd-1.github.io/assets/65806693/324dc38a-069d-411e-ac7b-593b56bf0d65)
+![case-grid-v3](https://github.com/wmd-1/wmd-1.github.io/assets/65806693/23654141-5cf1-4e2f-a8aa-fc06cd97752a)
 
 
 ## Acknowledgement
