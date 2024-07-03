@@ -30,15 +30,15 @@ Extensive experiments demonstrate that our AVF-Lip outperforms state-of-the-art 
 
 
 
-![](https://github.com/wmd-1/wmd-1.github.io/assets/65806693/e132de23-11f6-493f-afa9-157263709d8a)
+![](Generation_bbal5p.mp4)
 
 
 
-![](https://github.com/wmd-1/wmd-1.github.io/assets/65806693/c85f97ff-2ab6-47af-991b-74296ea1c30b)
+![](Generation_M039_video_front_neutral_level_1_013.mp4)
 
 
 
-![](https://github.com/wmd-1/wmd-1.github.io/assets/65806693/e509e1ba-7d1f-4f85-873b-1e7d5cc550f1)
+![](Generation_W009_video_front_neutral_level_1_013.mp4)
 
 
 
