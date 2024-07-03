@@ -34,11 +34,11 @@ Extensive experiments demonstrate that our AVF-Lip outperforms state-of-the-art 
 <div align="center">
 
 <video width="960" height="540" controls>
-    <source src="{{ site.baseurl }/Generation_M039_video_front_neutral_level_1_013.mp4" type="video/mp4">
+    <source src="Generation_M039_video_front_neutral_level_1_013.mp4" type="video/mp4">
 </video>
 
 <video width="720" height="576" controls>
-    <source src="{{ site.baseurl }}/Generation_bbal5p.mp4" type="video/mp4">
+    <source src="Generation_bbal5p.mp4" type="video/mp4">
 </video>
 
 </div>
