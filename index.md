@@ -31,9 +31,6 @@ Extensive experiments demonstrate that our AVF-Lip outperforms state-of-the-art 
 ## Quanlitative Results
 
 
-https://github.com/wmd-1/wmd-1.github.io/assets/65806693/5691c6af-59ea-4629-bf2d-f03a7981955b
-
-
 
 https://github.com/wmd-1/wmd-1.github.io/assets/65806693/ec872ec2-cb03-427f-9dbb-9d0207da5ac5
 
