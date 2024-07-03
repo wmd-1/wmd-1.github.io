@@ -39,13 +39,18 @@ https://github.com/wmd-1/wmd-1.github.io/assets/65806693/ec872ec2-cb03-427f-9dbb
 https://github.com/wmd-1/wmd-1.github.io/assets/65806693/00cc83bc-d9fb-4fdf-a73c-1e8b9adce2e3
 
 
+<div align="center">
+
 <video width="1920" height="1080" controls>
-    <source src="Generation_M039_video_front_neutral_level_1_013.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }/Generation_M039_video_front_neutral_level_1_013.mp4" type="video/mp4">
 </video>
 
 <video width="720" height="576" controls>
-    <source src="Generation_bbal5p.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/Generation_bbal5p.mp4" type="video/mp4">
 </video>
+
+</div>
+
 
 
 
